@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
+*{
+  margin: 10;
+  padding: 10;  
+}
+body{
+  background: #4d4a4ae4;
+  background-image: url(https://i.pinimg.com/564x/a8/40/d2/a840d23f4b3ff900ea8c13c774d21396.jpg);
+  background-position: cover;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+#add_drill{
+  background-image: url();
+}
+
+#add_items{
+  background-color: rgb(160, 95, 95);
+}
